@@ -1,0 +1,18 @@
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\106. Youtube in Forms\106. Youtube in Forms\bin\Debug\_106.Youtube_in_Forms.exe.config
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\106. Youtube in Forms\106. Youtube in Forms\bin\Debug\_106.Youtube_in_Forms.exe
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\106. Youtube in Forms\106. Youtube in Forms\bin\Debug\_106.Youtube_in_Forms.pdb
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\106. Youtube in Forms\106. Youtube in Forms\obj\Debug\106. Youtube in Forms.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\106. Youtube in Forms\106. Youtube in Forms\obj\Debug\_106.Youtube_in_Forms.Form1.resources
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\106. Youtube in Forms\106. Youtube in Forms\obj\Debug\_106.Youtube_in_Forms.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\106. Youtube in Forms\106. Youtube in Forms\obj\Debug\106. Youtube in Forms.csproj.GenerateResource.Cache
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\106. Youtube in Forms\106. Youtube in Forms\obj\Debug\_106.Youtube_in_Forms.exe
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\106. Youtube in Forms\106. Youtube in Forms\obj\Debug\_106.Youtube_in_Forms.pdb
+C:\Users\TOSHIBA\Desktop\Youtube in Forms\106. Youtube in Forms\bin\Debug\_106.Youtube_in_Forms.exe.config
+C:\Users\TOSHIBA\Desktop\Youtube in Forms\106. Youtube in Forms\obj\Debug\_106.Youtube_in_Forms.exe
+C:\Users\TOSHIBA\Desktop\Youtube in Forms\106. Youtube in Forms\obj\Debug\_106.Youtube_in_Forms.pdb
+C:\Users\TOSHIBA\Desktop\Youtube in Forms\106. Youtube in Forms\bin\Debug\_106.Youtube_in_Forms.exe
+C:\Users\TOSHIBA\Desktop\Youtube in Forms\106. Youtube in Forms\bin\Debug\_106.Youtube_in_Forms.pdb
+C:\Users\TOSHIBA\Desktop\Youtube in Forms\106. Youtube in Forms\obj\Debug\106. Youtube in Forms.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Youtube in Forms\106. Youtube in Forms\obj\Debug\_106.Youtube_in_Forms.Form1.resources
+C:\Users\TOSHIBA\Desktop\Youtube in Forms\106. Youtube in Forms\obj\Debug\_106.Youtube_in_Forms.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\Youtube in Forms\106. Youtube in Forms\obj\Debug\106. Youtube in Forms.csproj.GenerateResource.Cache
